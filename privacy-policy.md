@@ -6,4 +6,4 @@ This extension does not collect, store, or share any personal or sensitive user 
 - No data is transmitted to external servers or third parties.  
 - All processing happens locally on the user’s device.  
 
-If you have any questions or concerns about this privacy policy, please contact us at [your email].  
+If you have any questions or concerns about this privacy policy, please contact us at anassdahbiskalix@gmail.com.  
